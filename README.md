@@ -7,7 +7,7 @@
 
 ### Tecnologias que uso no meu cotidiano.
 
-<div style="display: inline_block"><br/>
+<div style="display: flex-box"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <div style="display: inline_block"><br/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -21,10 +21,9 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <div style="display: inline_block"><br/>
  <img align="center" alt="my.sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
- <div style="display: inline_block"><br/>
- <img align="center" alt="my.sql" src="https:https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
- <div style="display: inline_block"><br/>
-  
+<div style="display: inline_block"><br/>
+ <img align="center" alt="my.sql" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<div style="display: inline_block"><br/>
 </div>
 
 
