@@ -20,9 +20,9 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <div style="display: inline_block"><br/>
-  <img align="center" alt="my.sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<div style="display: inline_block"><br/>
- <img align="center" alt="my.sql" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img align="center" alt="my.sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <div style="display: inline_block"><br/>
+ <img align="center" alt="my.sql" src="https:https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  <div style="display: inline_block"><br/>
   
 </div>
