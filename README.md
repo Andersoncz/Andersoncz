@@ -20,12 +20,12 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <div style="display: inline_block"><br/>
+  
  <img align="center" alt="my.sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div style="display: inline_block"><br/>
  <img align="center" alt="my.sql" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
- <img align="center" alt="my.sql" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/>
- <img align="center" alt="my.sql" src=""/>
-<div style="display: inline_block"><br/>
+  
+ 
   
 </div>
 
