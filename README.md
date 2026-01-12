@@ -5,7 +5,7 @@
 
 ![Andersoncz GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncz&show_icons=true&theme=dracula)
 
-### Tecnologias que uso no meu cotidiano.
+### Habilidades.
 
 <div style="display: flex-box"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +23,10 @@
  <img align="center" alt="my.sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div style="display: inline_block"><br/>
  <img align="center" alt="my.sql" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img align="center" alt="my.sql" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/>
+ <img align="center" alt="my.sql" src=""/>
 <div style="display: inline_block"><br/>
+  
 </div>
 
 
